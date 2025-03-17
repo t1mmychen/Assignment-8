@@ -1,0 +1,38 @@
+---
+title: "Some things I learned this quarter"
+subtitle: "FISH 549"
+author: "Tim Chen<br>tmzchen@uw.edu"
+output: ioslides_presentation
+---
+# Introduction
+
+## About me
+### Personal
+
+- Born in Torrance, LA
+- favorite food: in n out burgers
+- favorite animal: Northwestern pond turtles!
+
+## About me
+### Academic
+
+- B.S. from UC Davis
+- Environmental science and management major
+
+# Data science
+
+## Course topics
+### 3 things I enjoyed learning about
+
+- introduction to github and its main functions
+- connecting a github repo to my RStudio for version control
+- making slides and websites with R markdown
+
+## Course topics
+### 3 things I'd like to learn more about
+
+- making shiny apps for our data and findings
+- how to make more detailed websites with R markdown
+- practice with collaborating with others through github
+
+## my wallpaper{data-background=lake.jpg data-background-size=cover}
